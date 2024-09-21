@@ -46,6 +46,7 @@ ol {
 .content {
   display: flex;
   flex-direction: row;
+  justify-content: end;
   align-items: end;
   width: 100%;
   max-width: 1200px;
