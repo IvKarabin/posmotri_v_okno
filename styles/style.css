@@ -11,11 +11,11 @@ html {
 .page {
   display: flex;
   flex-direction: column;
-  align-self: center;
+  align-items: center;
   inline-size: 1200px;
   block-size: 100%;
   max-height: 800px;
-  margin: auto;
+  margin: 0;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 18px;
