@@ -276,7 +276,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox {
   background-color: transparent;
 }
 
-.content__card-link:active {
+.content__video-card:active {
   background-color: #545050;
 }
 
